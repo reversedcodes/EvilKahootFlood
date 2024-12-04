@@ -28,7 +28,7 @@ A powerful Kahoot bot flooder that allows you to join a Kahoot game with multipl
 
 ```bash
 git clone https://github.com/reversedcodes/EvilKahootFlood.git
-cd kahoot-bot-flooder
+cd EvilKahootFlood
 ```
 
 ### Step 2: Install Dependencies
